@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uglify2", "Uglify2\Uglify2.csproj", "{AB7ECF7F-1D05-4F0F-BC6F-5A1188582D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uglify2.Tests", "Uglify2.Tests\Uglify2.Tests.csproj", "{DAC0EFF8-07CB-4FDF-AB87-51C28D8DC36F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7ECF7F-1D05-4F0F-BC6F-5A1188582D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7ECF7F-1D05-4F0F-BC6F-5A1188582D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7ECF7F-1D05-4F0F-BC6F-5A1188582D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7ECF7F-1D05-4F0F-BC6F-5A1188582D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC0EFF8-07CB-4FDF-AB87-51C28D8DC36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC0EFF8-07CB-4FDF-AB87-51C28D8DC36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC0EFF8-07CB-4FDF-AB87-51C28D8DC36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC0EFF8-07CB-4FDF-AB87-51C28D8DC36F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
